@@ -59,5 +59,4 @@ Folder `vendor` di dalam folder `assets` digunakan untuk menyimpan semua plugin 
 
 **Date**: Jul 7, 2022
 
-**Original Repository**:\
-https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Alterra
+
